@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1604107074 source:c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\filosofoscomensales\src\filosofo.cpp
+	"Filosofo.h"
+	"MesaCircular.h"
+	"txtcolor.h"
+
+1603871003 c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\filosofoscomensales\include\filosofo.h
+	<iostream>
+
+1604018674 source:c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\filosofoscomensales\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	"Filosofo.h"
+	"MesaCircular.h"
+
+1603866263 c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\filosofoscomensales\include\mesacircular.h
+	"Asiento.h"
+
+1603779568 c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\filosofoscomensales\include\asiento.h
+	"Filosofo.h"
+
+1603866543 source:c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\filosofoscomensales\src\mesacircular.cpp
+	"MesaCircular.h"
+	<cstddef>
+
+1603779655 source:c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\filosofoscomensales\src\asiento.cpp
+	"Asiento.h"
+
+1603821460 c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\filosofoscomensales\include\txtcolor.h
+	<iostream>
+	<windows.h>
+
